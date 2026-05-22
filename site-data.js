@@ -65,6 +65,12 @@ window.SITE_DATA = {
     { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting, lectern section." },
     { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
   ],
+  visitorWidgets: {
+    badgeUrl: "https://hits.sh/zheyuli2525.github.io.svg?style=flat-square&label=VISITORS&color=9f3036&labelColor=7e252b",
+    badgeAlt: "Visitor count for Zheyu Li homepage",
+    mapProvider: "Visitor map",
+    mapScript: ""
+  },
   interests: [
     "Transportation engineering and optimization",
     "Public transportation planning",

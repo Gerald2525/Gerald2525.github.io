@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Academic homepage for a transportation engineering researcher.">
+    <title>Academic Homepage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="#home" data-field="name">Academic Homepage</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="nav-links" id="nav-links">
+          <a href="#about">About</a>
+          <a href="#research">Research</a>
+          <a href="#publications">Publications</a>
+          <a href="#news">News</a>
+          <a href="#service">Service</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="home">
+        <div class="hero-inner">
+          <aside class="profile-panel" aria-label="Profile summary">
+            <div class="profile-photo-wrap">
+              <img id="profile-photo" class="profile-photo" src="assets/profile-placeholder.svg" alt="Profile photo">
+            </div>
+            <div class="profile-copy">
+              <p class="eyebrow" data-field="nameNative">Native Name</p>
+              <h1 data-field="name">Your Name</h1>
+              <p class="role" data-field="role">Graduate Student / Research Assistant</p>
+              <p class="affiliation" data-field="affiliation">University Affiliation</p>
+            </div>
+            <ul class="profile-facts" id="profile-facts"></ul>
+            <div class="social-links" id="social-links"></div>
+          </aside>
+
+          <div class="hero-content">
+            <p class="section-kicker" data-field="headlineKicker">Academic homepage</p>
+            <h2 data-field="headline">I build data-driven tools for transportation operations.</h2>
+            <p class="hero-text" data-field="summary">
+              Replace this paragraph with a concise research identity statement.
+            </p>
+            <div class="tag-row" id="hero-tags"></div>
+            <div class="hero-actions">
+              <a class="button primary" id="email-link" href="mailto:your.email@example.edu">Email</a>
+              <a class="button" id="cv-link" href="assets/cv.pdf">CV</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band" id="about">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">About</p>
+            <h2>Research Profile</h2>
+          </div>
+          <div class="section-body">
+            <div id="about-copy"></div>
+            <div class="metrics" id="metrics"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band subtle" id="research">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">Research</p>
+            <h2>Interests and Selected Work</h2>
+          </div>
+          <div class="section-body">
+            <div class="interest-list" id="interest-list"></div>
+            <div class="work-grid" id="featured-work"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band" id="timeline">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">Path</p>
+            <h2>Timeline</h2>
+          </div>
+          <div class="section-body">
+            <ol class="timeline" id="timeline-list"></ol>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band subtle" id="publications">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">Publications</p>
+            <h2>Selected Papers</h2>
+          </div>
+          <div class="section-body">
+            <div class="publication-list" id="publication-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band" id="news">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">Updates</p>
+            <h2>News</h2>
+          </div>
+          <div class="section-body">
+            <ul class="news-list" id="news-list"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band subtle" id="service">
+        <div class="section-grid">
+          <div class="section-heading">
+            <p class="section-kicker">Community</p>
+            <h2>Service and Teaching</h2>
+          </div>
+          <div class="section-body">
+            <div class="split-list" id="service-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band contact-band" id="contact">
+        <div class="contact-panel">
+          <div>
+            <p class="section-kicker">Contact</p>
+            <h2 data-field="contactTitle">Open to collaboration and research conversations.</h2>
+            <p data-field="contactText">Replace this with the kind of opportunities you want people to contact you about.</p>
+          </div>
+          <a class="button primary" id="footer-email-link" href="mailto:your.email@example.edu">Get in touch</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><span data-field="name">Your Name</span> <span id="footer-year"></span></p>
+      <p>Built for GitHub Pages.</p>
+    </footer>
+
+    <script src="site-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

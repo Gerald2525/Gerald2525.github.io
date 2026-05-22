@@ -1,16 +1,16 @@
 window.SITE_DATA = {
   name: "Zheyu Li",
   nameNative: "Zheyu Li",
-  role: "Ph.D. Student in Civil & Environmental Engineering",
+  role: "Ph.D. Candidate in Civil & Environmental Engineering",
   affiliation: "University of Maryland, College Park",
   location: "College Park, MD",
   email: "zli9226@umd.edu",
   photo: "assets/profile-placeholder.svg",
   cv: "#",
   headlineKicker: "Academic Homepage",
-  headline: "I study transportation systems through optimization, simulation, and data-driven planning.",
+  headline: "ZHEYU LI",
   summary:
-    "I am a Ph.D. student in Civil and Environmental Engineering at the University of Maryland. My work focuses on transportation engineering, with interests in optimization, public transportation systems, air transportation, rural mobility, and infrastructure performance evaluation.",
+    "I am a Ph.D. student in Civil and Environmental Engineering at the University of Maryland. My work focuses on transportation engineering, with interests in optimization, public transportation systems, air transportation, rural mobility, and infrastructure performance evaluation. Current research topics include optimization, simulation, and data-driven planning",
   facts: [
     { label: "Program", value: "Ph.D., Civil & Environmental Engineering" },
     { label: "School", value: "University of Maryland" },

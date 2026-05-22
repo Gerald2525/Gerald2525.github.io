@@ -35,7 +35,7 @@ window.SITE_DATA = {
   },
   textLinks: {
     "Appalachian Regional Commission": "https://www.arc.gov",
-    "Civil Remarks": "https://view.publitas.com/university-of-maryland-jbyr39_jr_pb/civil-remarks-magazine-2025/page/4-5"
+    "Civil Remarks Winter 2026": "https://view.publitas.com/university-of-maryland-jbyr39_jr_pb/civil-remarks-magazine-2025/page/4-5"
   },
   tags: [
     "Transportation Engineering",
@@ -179,9 +179,9 @@ window.SITE_DATA = {
     }
   ],
   news: [
-    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the Winter 2026 issue of Civil Remarks." },
     { date: "Apr 2026", text: "Guest presenter for ENCE 674 - Public Transportation Planning at the University of Maryland." },
     { date: "Apr 2026", text: "Hybrid scheduling and routing paper under minor revision at Transportation Research Record." },
+    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the Winter 2026 issue of Civil Remarks Winter 2026." },
     { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting." },
     { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
   ],

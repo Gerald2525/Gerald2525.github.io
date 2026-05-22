@@ -66,10 +66,8 @@ window.SITE_DATA = {
     { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
   ],
   visitorWidgets: {
-    badgeUrl: "https://hits.sh/zheyuli2525.github.io.svg?style=flat-square&label=VISITORS&color=9f3036&labelColor=7e252b",
-    badgeAlt: "Visitor count for Zheyu Li homepage",
-    mapProvider: "Visitor map",
-    mapScript: ""
+    statsUrl: "https://mapmyvisitors.com/web/1c4o5",
+    statsLabel: "Map My Visitors"
   },
   interests: [
     "Transportation engineering and optimization",

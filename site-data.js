@@ -31,7 +31,8 @@ window.SITE_DATA = {
     "Zheyu Li": "https://zheyuli2525.github.io",
     "Paul Schonfeld": "https://cee.umd.edu/clark/faculty/291/Paul-Schonfeld",
     "Dianwei Chen": "https://dianweichen.github.io/",
-    "Y.-Z. Lei": "https://edisonylei.github.io/"
+    "Yuan-Zheng Lei": "https://edisonylei.github.io/",
+    "Youngmin Choi": "https://myrigparking.com/"
   },
   textLinks: {
     "Appalachian Regional Commission": "https://www.arc.gov",
@@ -117,12 +118,12 @@ window.SITE_DATA = {
     {
       venue: "TRR Accepted",
       title: "Strategic Location Planning for Electric Truck Charging Stations using Truck Trajectory Data Improvement",
-      authors: "Zheyu Li, Y.M. Choi, and Paul Schonfeld",
+      authors: "Zheyu Li, Youngmin Choi, and Paul Schonfeld",
       details: "Accepted for Transportation Research Record, October 2025.",
       links: [{ label: "DOI", url: "https://doi.org/10.1177/03611981251364835" }]
     },
     {
-      venue: "TRR Minor Revision",
+      venue: "TRR Minor Revision & TRB 2026",
       title: "Hybrid Scheduling and Routing for Rural Transit with Flexible and Fixed-Route Integration",
       authors: "Zheyu Li and Paul Schonfeld",
       details: "Under minor revision at Transportation Research Record. Also presented at the 105th TRB Annual Meeting.",
@@ -138,28 +139,28 @@ window.SITE_DATA = {
     {
       venue: "Working Paper",
       title: "Performance Evaluation and Measurement of Local Access Road in Appalachia",
-      authors: "Zheyu Li, J. Wang, and Paul Schonfeld",
+      authors: "Zheyu Li, Jason Wang, and Paul Schonfeld",
       details: "Working paper, proposal stage.",
       links: [{ label: "Project", url: "#" }]
     },
     {
       venue: "Working Paper",
       title: "Machine Learning Based Runway Occupancy Prediction and Landing Sequences Reshuffle",
-      authors: "Zheyu Li, C.-Y. Lin, Dianwei Chen, and Paul Schonfeld",
+      authors: "Zheyu Li, Chen-Yen Lin, Dianwei Chen, and Paul Schonfeld",
       details: "Working paper, proposal stage.",
       links: [{ label: "Project", url: "#" }]
     },
     {
       venue: "Working Paper",
       title: "Optimization of Runway Exits Locations Based on Fleet Mix and Operational Uncertainty",
-      authors: "Zheyu Li, Y.-Z. Lei, and Paul Schonfeld",
+      authors: "Zheyu Li, Yuan-Zheng Lei, and Paul Schonfeld",
       details: "To be submitted to Transportation Research Part B: Methodological.",
       links: [{ label: "Project", url: "#" }]
     },
     {
       venue: "TRB 2025",
       title: "Locations for Electric Truck Charging Stations and Impact of Battery Technology Improvement",
-      authors: "Zheyu Li, Y.M. Choi, and Paul Schonfeld",
+      authors: "Zheyu Li, Youngmin Choi, and Paul Schonfeld",
       details: "Poster Session at the 104th TRB Annual Meeting, January 2025.",
       links: [{ label: "ResearchGate", url: "https://www.researchgate.net/publication/393772344_Strategic_Location_Planning_for_Electric_Truck_Charging_Stations_using_Truck_Trajectory_Data_Improvement" }]
     },
@@ -173,7 +174,7 @@ window.SITE_DATA = {
     {
       venue: "TRB 2024",
       title: "A Planning Model for Flexible-route Delivery Optimization of Farm Products: A Case Study in Central Appalachia",
-      authors: "Zheyu Li, J. Wang, and Paul Schonfeld",
+      authors: "Zheyu Li, Jasom Wang, and Paul Schonfeld",
       details: "Lectern Session at the 103rd TRB Annual Meeting, January 2024.",
       links: [{ label: "ResearchGate", url: "https://www.researchgate.net/publication/396085124_A_Planning_Model_for_Flexible-route_Delivery_Optimization_of_Farm_Products_A_Case_Study_in_Central_Appalachia" }]
     }

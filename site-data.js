@@ -58,6 +58,13 @@ window.SITE_DATA = {
     { value: "1", label: "Accepted journal article" },
     { value: "2023", label: "Ph.D. start" }
   ],
+    news: [
+    { date: "Apr 2026", text: "Guest presenter for ENCE 674 - Public Transportation Planning at the University of Maryland, April 14." },
+    { date: "Apr 2026", text: "Hybrid scheduling and routing paper under minor revision at Transportation Research Record." },
+    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the issue of Civil Remarks Winter 2026, Dept. of CEE, UMD" },
+    { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting, lectern section." },
+    { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
+  ],
   interests: [
     "Transportation engineering and optimization",
     "Public transportation planning",
@@ -197,13 +204,6 @@ window.SITE_DATA = {
       details: "Lectern Session at the 103rd TRB Annual Meeting, January 2024.",
       links: [{ label: "ResearchGate", url: "https://www.researchgate.net/publication/396085124_A_Planning_Model_for_Flexible-route_Delivery_Optimization_of_Farm_Products_A_Case_Study_in_Central_Appalachia" }]
     }
-  ],
-  news: [
-    { date: "Apr 2026", text: "Guest presenter for ENCE 674 - Public Transportation Planning at the University of Maryland, April 14." },
-    { date: "Apr 2026", text: "Hybrid scheduling and routing paper under minor revision at Transportation Research Record." },
-    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the issue of Civil Remarks Winter 2026, Dept. of CEE, UMD" },
-    { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting, lectern section." },
-    { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
   ],
   contactTitle: "Open to collaboration on transportation systems, infrastructure evaluation, and data-driven planning.",
   contactText:

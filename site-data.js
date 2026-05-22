@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   name: "Zheyu Li",
-  nameNative: "Zheyu Li",
+  nameNative: "Zheyu Li 李哲宇",
   role: "Ph.D. Candidate in Civil & Environmental Engineering",
   affiliation: "University of Maryland, College Park",
   location: "College Park, MD",
@@ -87,6 +87,24 @@ window.SITE_DATA = {
       description:
         "Research on stochastic transit coordination and hybrid scheduling and routing for rural transit systems integrating flexible and fixed-route services.",
       url: "https://www.researchgate.net/publication/403641090_Hybrid_Scheduling_and_Routing_for_Rural_Transit_with_Flexible_and_Fixed-Route_Integration"
+    }
+  ],
+    service: [
+    {
+      title: "Invited Presentations",
+      items: [
+        "Guest Presenter, ENCE 674 - Public Transportation Planning, University of Maryland, April 2026",
+        "Guest Presenter, ENCE 672 - Regional Transportation Planning, University of Maryland, December 2025",
+        "Guest Presenter, ENCE 674 - Public Transportation Planning, University of Maryland, April 2025"
+      ]
+    },
+    {
+      title: "Research Experience",
+      items: [
+        "Graduate Research Assistant, ADHS MTI Research Fellowship, Appalachian Regional Commission",
+        "Undergraduate thesis researcher, passenger flow forecasting for Xi'an Metro Line 14",
+        "Transportation statistic analyst, City Transportation Research Center of Jinan"
+      ]
     }
   ],
   timeline: [
@@ -181,29 +199,11 @@ window.SITE_DATA = {
     }
   ],
   news: [
-    { date: "Apr 2026", text: "Guest presenter for ENCE 674 - Public Transportation Planning at the University of Maryland." },
+    { date: "Apr 2026", text: "Guest presenter for ENCE 674 - Public Transportation Planning at the University of Maryland, April 14." },
     { date: "Apr 2026", text: "Hybrid scheduling and routing paper under minor revision at Transportation Research Record." },
-    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the Winter 2026 issue of Civil Remarks Winter 2026." },
-    { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting." },
+    { date: "Feb 2026", text: "Our ARC-supported research on on-demand public transportation for rural communities was featured in the issue of Civil Remarks Winter 2026, Dept. of CEE, UMD" },
+    { date: "Jan 2026", text: "Presented rural transit scheduling and routing work at the 105th TRB Annual Meeting, lectern section." },
     { date: "Oct 2025", text: "Electric truck charging station location planning paper accepted by Transportation Research Record." }
-  ],
-  service: [
-    {
-      title: "Invited Presentations",
-      items: [
-        "Guest Presenter, ENCE 674 - Public Transportation Planning, University of Maryland, April 2026",
-        "Guest Presenter, ENCE 672 - Regional Transportation Planning, University of Maryland, December 2025",
-        "Guest Presenter, ENCE 674 - Public Transportation Planning, University of Maryland, April 2025"
-      ]
-    },
-    {
-      title: "Research Experience",
-      items: [
-        "Graduate Research Assistant, ADHS MTI Research Fellowship, Appalachian Regional Commission",
-        "Undergraduate thesis researcher, passenger flow forecasting for Xi'an Metro Line 14",
-        "Transportation statistic analyst, City Transportation Research Center of Jinan"
-      ]
-    }
   ],
   contactTitle: "Open to collaboration on transportation systems, infrastructure evaluation, and data-driven planning.",
   contactText:

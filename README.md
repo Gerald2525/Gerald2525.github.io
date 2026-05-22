@@ -13,7 +13,7 @@ Most visible content lives in that one file:
 
 - `name`, `nameNative`, `role`, `affiliation`, `location`, `email`
 - `photo`: replace `assets/profile-placeholder.svg` with your own photo path
-- `cv`: use a public, redacted PDF or leave it as `#` until the file is ready
+- `cv`: use a public, redacted PDF such as `assets/Zheyu_Li_CV_05-2026_Online_Public.pdf`
 - `links`: Google Scholar, GitHub, LinkedIn, ORCID
 - `about`, `interests`, `featuredWork`, `timeline`, `publications`, `news`, `service`
 
@@ -25,9 +25,9 @@ photo: "assets/profile.jpg"
 
 ## Deploy On GitHub Pages
 
-This repository is named `Gerald2525.github.io`, so GitHub Pages should publish it at:
+This repository is named `zheyuli2525.github.io`, so GitHub Pages should publish it at:
 
-`https://Gerald2525.github.io/`
+`https://zheyuli2525.github.io/`
 
 If it does not appear after a few minutes, open Settings -> Pages and publish from the `main` branch root.
 
